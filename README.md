@@ -1,7 +1,7 @@
 ## instructions ##
 
 * cd into the directory
-* run npm install   ( one time )
+* npm install   ( one time, run the npm install command in the terminal )
 
 * create a .scss file in the sass_style_sheets directory
 * in the root directory of the project, run the command "npm run scss" this will start node-sass
