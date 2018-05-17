@@ -1,0 +1,12 @@
+.square_wrapper {
+  width: 500px;
+  height: 500px;
+  background: grey; }
+  .square_wrapper .square_child {
+    width: 200px;
+    height: 200px;
+    background: blue; }
+  .square_wrapper a {
+    background: white;
+    color: green;
+    border: 2px solid blueviolet; }
